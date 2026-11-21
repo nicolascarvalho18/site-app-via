@@ -1,0 +1,4 @@
+Coloque aqui as capturas reais do Pet Go, por exemplo:
+  petgo-inicio.png
+  petgo-viagem.png
+Depois siga o comentario "CELULARES DO HERO" no index.html.
